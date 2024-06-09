@@ -12,3 +12,4 @@ J:\applied programming\quizApp2\obj\Debug\net8.0-windows\refint\quizApp2.dll
 J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.pdb
 J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.genruntimeconfig.cache
 J:\applied programming\quizApp2\obj\Debug\net8.0-windows\ref\quizApp2.dll
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.sourcelink.json
