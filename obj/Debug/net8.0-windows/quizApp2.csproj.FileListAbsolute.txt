@@ -1,0 +1,14 @@
+J:\applied programming\quizApp2\bin\Debug\net8.0-windows\quizApp2.exe
+J:\applied programming\quizApp2\bin\Debug\net8.0-windows\quizApp2.deps.json
+J:\applied programming\quizApp2\bin\Debug\net8.0-windows\quizApp2.runtimeconfig.json
+J:\applied programming\quizApp2\bin\Debug\net8.0-windows\quizApp2.dll
+J:\applied programming\quizApp2\bin\Debug\net8.0-windows\quizApp2.pdb
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.GeneratedMSBuildEditorConfig.editorconfig
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.AssemblyInfoInputs.cache
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.AssemblyInfo.cs
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.csproj.CoreCompileInputs.cache
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.dll
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\refint\quizApp2.dll
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.pdb
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\quizApp2.genruntimeconfig.cache
+J:\applied programming\quizApp2\obj\Debug\net8.0-windows\ref\quizApp2.dll
